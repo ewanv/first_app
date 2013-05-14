@@ -13,7 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-<<<<<<< HEAD
 
 # Ignore other unneeded files.
 doc/
@@ -22,5 +21,3 @@ doc/
 .project
 .DS_Store
 .idea
-=======
->>>>>>> a659f5ebfec469eea683e24751d8243e2ad83d89
